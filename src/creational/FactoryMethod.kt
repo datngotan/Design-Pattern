@@ -1,4 +1,4 @@
-package structural
+package creational
 
 /*
 ========================================
