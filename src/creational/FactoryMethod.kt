@@ -74,8 +74,6 @@ AF = Factory decides family
 ========================================
 */
 
-
-
 interface Transport {
     fun ship()
 }
